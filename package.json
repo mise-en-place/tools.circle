@@ -1,0 +1,22 @@
+{
+  "name": "mep-tools.circle",
+  "version": "1.0.0",
+  "description": "Circle Tool",
+  "main": "stylesheets/_tool-circle.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "tool-circle",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/tools.circle.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
